@@ -1,10 +1,10 @@
-let age = "88";
-console.log(age);
-console.log(typeof age);
+// let age = "88";
+// console.log(age);
+// console.log(typeof age);
 
-let cestedaAge1 =Number(age);
-console.log(cestedaAge1);
-console.log(typeof cestedaAge1);
+// let cestedaAge1 =Number(age);
+// console.log(cestedaAge1);
+// console.log(typeof cestedaAge1);
 
 // let castedaAge2 = +age;
 // console.log(castedaAge2)
@@ -29,4 +29,7 @@ console.log(typeof cestedaAge1);
  
 // let newcommit5 = +"25"
 // console.log(newcommit5)
-// console.log(typeof newcommit5)
+// console.log(typeof newcommit5)m
+let commitnwe = prompt("what you are name? ")
+console.log (commitnwe);
+console.log (typeof commitnwe );
