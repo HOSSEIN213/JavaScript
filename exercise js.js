@@ -11,7 +11,7 @@ console.log(typeof cestedaAge1);
 // console.log(typeof castedaAge2);
 
 
-pracitce p.2.3
+// pracitce p.2.3
 
 // let agenew2 ="55"
 // console.log(agenew2)
