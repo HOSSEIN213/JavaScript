@@ -30,6 +30,17 @@
 // let newcommit5 = +"25"
 // console.log(newcommit5)
 // console.log(typeof newcommit5)m
-let commitnwe = prompt("what you are name? ")
-console.log (commitnwe);
-console.log (typeof commitnwe );
+// let commitnwe = prompt("what you are name? ")
+// console.log (commitnwe);
+// console.log (typeof commitnwe );
+// let hinew2 = +prompt ( "how are you ?");
+// console.log( hinew2 );
+// let hinew5 = "hi"
+// alert ( hinew5)
+let newhi3 = confirm (" are you taecher ")
+let commit = "hi";
+console.log (newhi3);
+
+
+ alert (newhi3) ;
+console.log (hi);
