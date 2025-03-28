@@ -40,7 +40,7 @@ pracitce p.2.3
 let newhi3 = confirm (" are you taecher ")
 let commit = "hi";
 console.log (newhi3);
-
+c
 
  alert (newhi3) ;
 console.log (hi);
