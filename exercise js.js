@@ -37,10 +37,11 @@ pracitce p.2.3
 // console.log( hinew2 );
 // let hinew5 = "hi"
 // alert ( hinew5)
-let newhi3 = confirm (" are you taecher ")
-let commit = "hi";
-console.log (newhi3);
-c
+// let newhi3 = confirm (" are you taecher ")
+// let commit = "hi";
+// console.log (newhi3);
 
- alert (newhi3) ;
-console.log (hi);
+
+//  alert (newhi3) ;
+// console.log (hi);
+
