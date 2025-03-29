@@ -58,13 +58,19 @@
 // let plural = (plse + plse2)*(plse3 - plse4);
 // console.log(plural);
 // alert(plural);
-let result = confirm("آیا مطمئن هستید؟");
+// let result = confirm("آیا مطمئن هستید؟");
 
-if (result) {
-    console.log("کاربر تأیید کرد!");
-} else {
-    console.log("کاربر انصراف داد!");
-}
+// if (result) {
+//     console.log("کاربر تأیید کرد!");
+// } else {
+//     console.log("کاربر انصراف داد!");
+// }
 
+// let price=+prompt("قیمت مورد نظر را بیان کن","0") ;
+// let price2= +prompt ("تخیفخف مورد نظر را بیان کن","0") ;
+
+// let discount = price - (price / 100)* price2 ;
+// alert(price2);
+// console.log(discount);
 
 
