@@ -50,11 +50,21 @@
 // let new2cod =Boolean(newcod);
 // console.log(new2cod);
 // console.log(typeof new2cod)
-
-let plse = "5";
-let plse2 ="5";
-let plural =plural + plse2 ;
-console.log(plural);
-
-
 // / (plural - plse2)
+// let plse = +prompt("What is your first number1?");
+// let plse2 = +prompt("What is your second number2?");
+// let plse3 = +prompt("What is your first number4?");
+// let plse4 = +prompt("What is your second number4?");
+// let plural = (plse + plse2)*(plse3 - plse4);
+// console.log(plural);
+// alert(plural);
+let result = confirm("آیا مطمئن هستید؟");
+
+if (result) {
+    console.log("کاربر تأیید کرد!");
+} else {
+    console.log("کاربر انصراف داد!");
+}
+
+
+
