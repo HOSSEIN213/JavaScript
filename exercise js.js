@@ -11,7 +11,7 @@
 // console.log(typeof castedaAge2);
 
 
-pracitce p.2.3
+// pracitce p.2.3
 
 // let agenew2 ="55"
 // console.log(agenew2)
@@ -45,3 +45,16 @@ pracitce p.2.3
 //  alert (newhi3) ;
 // console.log (hi);
 
+
+// let newcod = "15.2";
+// let new2cod =Boolean(newcod);
+// console.log(new2cod);
+// console.log(typeof new2cod)
+
+let plse = "5";
+let plse2 ="5";
+let plural =plural + plse2 ;
+console.log(plural);
+
+
+// / (plural - plse2)
