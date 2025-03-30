@@ -72,9 +72,19 @@
 // let discount = price - (price / 100)* price2 ;
 // alert(price2);
 // console.log(discount);
-let number =  "53"
-let number2 = "53"
-let price = number ==! number2;
-console.log(price);
+// let number =  "53"
+// let number2 = "53"
+// let price = number ==! number2;
+// console.log(price);
+ 
+
+let cod = prompt("یک عدد وارد کن ");
+if (cod / 2 == 0 )
+{
+    alert("زوج است");
+
+}else("قرد است")
+
+
 
 
