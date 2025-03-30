@@ -78,13 +78,16 @@
 // console.log(price);
  
 
-let cod = prompt("یک عدد وارد کن ");
-if (cod / 2 == 0 )
-{
-    alert("زوج است");
+// let cod2 = +prompt("یک عدد وارد کن ");
+// if (cod2 % 2 == 0 )
+// {
+//     alert("زوج است");
+// }if(cod2 % 2 == 1){
+//     alert("فرد است");
 
-}else("قرد است")
-
-
-
-
+// }
+let number1 = +prompt(" یک عدد وارد کن1");
+let number2 = +prompt(" یک عدد وارد کن2");
+let number3 = +prompt(" یک عدد وارد کن3");
+let plse = (number1 + number2 + number3) / 3;
+alert(plse)
